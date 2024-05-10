@@ -1,0 +1,10 @@
+﻿  paint.cpp
+E:\代码\MapEditor\MapEditor\paint.cpp(86,11): warning C4101: “oldObject”: 未引用的局部变量
+  MapEditorView.cpp
+E:\代码\MapEditor\MapEditor\MapEditorView.cpp(95,29): warning C4838: 从“char”转换到“double”需要收缩转换
+E:\代码\MapEditor\MapEditor\MapEditorView.cpp(95,43): warning C4838: 从“COLORREF”转换到“double”需要收缩转换
+E:\代码\MapEditor\MapEditor\MapEditorView.cpp(95,69): warning C4838: 从“int”转换到“COLORREF”需要收缩转换
+E:\代码\MapEditor\MapEditor\MapEditorView.cpp(371,38): warning C4838: 从“int”转换到“char”需要收缩转换
+E:\代码\MapEditor\MapEditor\MapEditorView.cpp(1250,13): warning C4552: ”-“: 未使用表达式结果
+E:\代码\MapEditor\MapEditor\MapEditorView.cpp(2420,38): warning C4838: 从“int”转换到“char”需要收缩转换
+  MapEditor.vcxproj -> E:\代码\MapEditor\Debug\MapEditor.exe

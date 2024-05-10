@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  CCreateFileDlg.cpp
+  MainFrm.cpp
+  MapEditor.cpp
+  MapEditorDoc.cpp
+  MapEditorView.cpp
+  正在生成代码...
+MapEditor.obj : error LNK2001: 无法解析的外部符号 "protected: virtual struct AFX_MSGMAP const * __cdecl CAboutDlg::GetMessageMap(void)const " (?GetMessageMap@CAboutDlg@@MEBAPEBUAFX_MSGMAP@@XZ)
+E:\代码\MapEditor\x64\Debug\MapEditor.exe : fatal error LNK1120: 1 个无法解析的外部命令
